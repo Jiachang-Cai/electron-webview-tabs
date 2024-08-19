@@ -13,7 +13,7 @@
 | preload.js 使用(可预设token打通鉴权)    | 完成   |
 
 ## 优势
-- vue3、arco tas组件配合使用、 components封装代码量极少超轻量
+- vue3、arco tas组件配合使用、 components封装一个.vue文件代码量极少超轻量
 
 ## 演示视频
 [演示视频](./fd13cb1d236f18553f83677c07e87a2f.mp4)
